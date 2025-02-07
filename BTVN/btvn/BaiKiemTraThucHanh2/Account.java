@@ -2,7 +2,7 @@ package BTVN.btvn.BaiKiemTraThucHanh2;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// account
 public class Account {
     private String accountNumber;
     private String accountHolder;
