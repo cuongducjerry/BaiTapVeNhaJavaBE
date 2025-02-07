@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BTVN.iml" filepath="$PROJECT_DIR$/BTVN.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BTVN-JavaBE2411/BTVN-Buoi8.iml" filepath="$PROJECT_DIR$/BTVN-JavaBE2411/BTVN-Buoi8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BTVN.iml" filepath="$PROJECT_DIR$/.idea/BTVN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapVeNhaJavaBE/BaiTapVeNhaJavaBE.iml" filepath="$PROJECT_DIR$/BaiTapVeNhaJavaBE/BaiTapVeNhaJavaBE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapVeNhaJavaBE/src/BaiTapVeNhaJavaBE2.iml" filepath="$PROJECT_DIR$/BaiTapVeNhaJavaBE/src/BaiTapVeNhaJavaBE2.iml" />
     </modules>
   </component>
 </project>
